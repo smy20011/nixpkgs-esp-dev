@@ -66,6 +66,8 @@ let
       [
         # This list is from `tools/requirements/requirements.core.txt` in the
         # ESP-IDF checkout.
+        bleak
+        protobuf
         setuptools
         click
         pyserial
