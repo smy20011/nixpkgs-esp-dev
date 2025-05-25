@@ -107,6 +107,8 @@ rec {
       pyserial
       reedsolo
       pyyaml
+      google
+      bleak
     ];
 
     # Replaces esptool.py import with .esptool.py-wrapped
